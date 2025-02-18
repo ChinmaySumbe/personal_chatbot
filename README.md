@@ -2,7 +2,7 @@
 
 🚀 A **streamlit-based chatbot** using **Cohere AI** to generate responses in real-time.
 
-#Live - https://pchatbot.streamlit.app/
+## Live - https://pchatbot.streamlit.app/
 
 ---
 
