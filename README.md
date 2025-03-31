@@ -105,7 +105,7 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 
 ## **👨‍💻 Author**
 
-✉️ **Your Name**\
+✉️ **Chinmay Sumbe**\
 🔗 [LinkedIn](https://www.linkedin.com/in/chinmay-sumbe/)\
 🐙 [GitHub](https://github.com/ChinmaySumbe)
 
